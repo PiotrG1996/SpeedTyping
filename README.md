@@ -4,11 +4,13 @@ This project is a simple HTML game designed to test and improve typing speed.
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Screenshots](#screenshots)
+- [Speed Typing Simple HTML Game](#speed-typing-simple-html-game)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Screenshots](#screenshots)
 
 ## Installation
 
@@ -25,6 +27,8 @@ Contributions are welcome! If you find any issues or want to add new features, f
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+Language english / polish.
 
 ## Screenshots
 
